@@ -7,7 +7,7 @@ Hi there! I'm **Ritika Singh Katoch**, a passionate **Sophomore** from IIT Bhila
 
 ## 🚀 **About Me**
 
-I’m a **[your profession/field]** with a focus on **[specific technologies or domains]**. I love working on projects that challenge me and help me grow as a developer. My current focus is on building **[Your Current Focus]**. When I'm not coding, you'll find me **[Your Hobbies or Interests]**.
+I’m a **student of DSAI**. I love working on projects that challenge me and help me grow as a developer. When I'm not coding, you'll find me **reading or listening to music**.
 
 - 💼 **Current Role**: Sophomore
 - 🔧 **Languages**: Python, JavaScript, Java, HTML/CSS, SQL
